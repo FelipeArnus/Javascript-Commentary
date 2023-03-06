@@ -45,6 +45,9 @@ Date:   Mon Mar 6 11:14:44 2023 -0300
 
 $ git show c4836c075f92220823df8cb4e28470aafa94c67a //mostra conteudo dentro do "aula.txt"
 
+$ git remote add origin https://github.com/FelipeArnus/AulaJavascript.git //linka origem na pasta criada no github github
+$ git branch -M main //cria pasta para main
+$ git push -u origin main //cria main
 
 
 
