@@ -1,0 +1,16 @@
+logonrmlocal@PA403MICRO39 MINGW64 ~
+
+$ cd desktop //entra no desktop(pasta)
+
+$ mkdir Aulagit //cria pasta "Aulagit"
+
+$ cd Aulagit //acessa tal pasta
+
+$ ls //diz conteudo da pasta
+
+$ git init //inicia github + dá master
+
+$ git config --global user.name "Felipe" //configura conta
+
+$ git config --global user.email felipe.arnus@gmail.com //acessa email do git
+
